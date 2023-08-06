@@ -15,12 +15,12 @@ Top 20 performances according to that criterion (stage 0 means prologue):
 | 1 | 2 | ZÜLLE Alex | 43.881 | Vuelta a Espana | 1993 | 21 | 44.6 km |  | 6 % |
 | 1 | 1 | INDURAIN Miguel | 50.548 | Tour de France | 1994 | 9 | 64 km | 37 | 5.9 % |
 | 1 | 2 | ULLRICH Jan | 48.178 | Tour de France | 2003 | 12 | 47 km | 49 | 5.1 % |
-| 1 | 1111 | BOARDMAN Chris | 55.267 | Tour de France | 1994 | 0 | 7.2 km | 2 | 5 % |
+| 1 | DNF | BOARDMAN Chris | 55.267 | Tour de France | 1994 | 0 | 7.2 km | 2 | 5 % |
 | 1 | 1 | PECHARROMÁN José Antonio | 36.028 | Volta a Catalunya | 2003 | 6 | 13.1 km |  | 5 % |
 | 1 | 1 | ULLRICH Jan | 42.494 | Vuelta a Espana | 1999 | 20 | 46 km |  | 5 % |
 | 105 | 12 | ESCARTÍN Fernando | 55.149 | Tour de France | 1994 | 0 | 7.2 km | 2 | 4.8 % |
 | 1 | 1 | ULLRICH Jan | 43.194 | Tour de France | 1997 | 12 | 55 km | 145 | 4.8 % |
-| 151 | 1111 | PIOVACCARI Giusvan | 43.194 | Tour de France | 1997 | 12 | 55 km | 145 | 4.8 % |
+| 151 | DNF | PIOVACCARI Giusvan | 43.194 | Tour de France | 1997 | 12 | 55 km | 145 | 4.8 % |
 | 1 | 2 | ULLRICH Jan | 49.791 | Tour de France | 1998 | 20 | 53 km | 58 | 4.7 % |
 | 1 | 8 | MCGEE Bradley | 48.706 | Giro d Italia | 2004 | 0 | 6.9 km | 8 | 4.7 % |
 | 1 | 2 | PÉREZ Santiago | 28.424 | Vuelta a Espana | 2004 | 15 | 29.6 km | 214 | 4.7 % |
@@ -30,6 +30,6 @@ Top 20 performances according to that criterion (stage 0 means prologue):
 | 1 | 1 | ARMSTRONG Lance | 23.436 | Tour de France | 2004 | 16 | 15.5 km | 249 | 4.6 % |
 | 1 | 76 | GANNA Filippo | 55.348 | Tirreno Adriatico | 2023 | 1 | 11.5 km | 0 | 4.5 % |
 | 1 | 70 | SOBRERO Matteo | 46.607 | Giro d Italia | 2022 | 21 | 17.4 km | 30 | 4.5 % |
-| 1 | 1111 | OLANO Abraham | 52.005 | Vuelta a Espana | 1999 | 6 | 46.4 km |  | 4.5 % |
+| 1 | DNF | OLANO Abraham | 52.005 | Vuelta a Espana | 1999 | 6 | 46.4 km |  | 4.5 % |
 
 For reference, Pogacar's TdF 2020 stage 20 ITT is 'only' 61st, being 3.4% faster than the average of the top 10.
