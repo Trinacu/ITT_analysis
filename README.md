@@ -5,6 +5,8 @@ Since people were very impressed by Jonas Vingegaard's Tour de France 2023 stage
 I scraped the data for all ITT's from major 1 week and GT's from 1993 to 2023 and calculated the average speed of the top 10 finishers to get a good baseline to compare to (assuming the fastest 10 finishers of a stage did well).
 Then I calculated every result's difference compared to that baseline and JV's stage 16 ITT is far beyond any other.
 
+The script is far from optimal, but it does the work. You could get a list of every tour's stages and find ITT's from there rather than going through all of them and checking for 'ITT' etc.
+
 Top 20 performances according to that criterion (stage 0 means prologue):
 
 | Rnk | FinalGC | RiderName | Avg | Race | Year | Stage | Distance | ProfileScore | AvgTop10 |
